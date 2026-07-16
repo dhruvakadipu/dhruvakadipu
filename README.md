@@ -13,7 +13,9 @@
 </picture>
 
 <p>
-4+ years writing Python and C++ for backend systems and AI tooling. Lately I've been building RAG pipelines and local-LLM apps — Logly below is the latest one.
+4+ years writing Python and C++ for backend systems and AI tooling.
+<br/>
+Lately I've been building RAG pipelines and local-LLM apps.
 </p>
 
 <p>
