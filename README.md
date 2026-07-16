@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Dhruv%20Prajapati&fontSize=42&fontColor=58A6FF&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Backend&descAlignY=55&descColor=8B949E" alt="header banner" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Dhruv%20Prajapati&fontSize=42&fontColor=58A6FF&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Backend&descAlignY=55&descColor=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,100:DBE4EC&height=180&section=header&text=Dhruv%20Prajapati&fontSize=42&fontColor=0969DA&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Backend&descAlignY=55&descColor=57606A">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Dhruv%20Prajapati&fontSize=42&fontColor=58A6FF&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Backend&descAlignY=55&descColor=8B949E" alt="header banner" width="100%"/>
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Systems+%7C+Backend+Engineering;Python+%7C+C%2B%2B+%7C+FastAPI;Building+Intelligent%2C+Production+Software" alt="typing animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Systems+%7C+Backend+Engineering;Python+%7C+C%2B%2B+%7C+FastAPI;Building+Intelligent%2C+Production+Software">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=1200&color=0969DA&center=true&vCenter=true&width=750&lines=AI+Systems+%7C+Backend+Engineering;Python+%7C+C%2B%2B+%7C+FastAPI;Building+Intelligent%2C+Production+Software">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Systems+%7C+Backend+Engineering;Python+%7C+C%2B%2B+%7C+FastAPI;Building+Intelligent%2C+Production+Software" alt="typing animation"/>
+</picture>
 
 <p>
 4+ years writing Python and C++ for backend systems and AI tooling. Lately I've been building RAG pipelines and local-LLM apps — Logly below is the latest one.
@@ -101,12 +109,12 @@ class DhruvPrajapati:
 <img src="https://img.shields.io/badge/Google_Hash_Code-Top_2%25_India-FBBC05?style=for-the-badge&logo=google&logoColor=0D1117" alt="Google Hash Code Top 2% India"/>
 <img src="https://img.shields.io/badge/Google_Hash_Code-Top_20%25_Global-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Hash Code Top 20% Global"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Google_GenAI_Hackathon-2025-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google GenAI Hackathon 2025"/>
 <img src="https://img.shields.io/badge/LeetCode-300%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="300+ DSA problems solved"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/⚽_Football-National--Level_Athlete-EA4335?style=for-the-badge" alt="National-level football athlete"/>
 
@@ -119,15 +127,31 @@ class DhruvPrajapati:
 <div align="center">
 
 <!-- GitHub stats + top languages disabled — github-readme-stats deployment is currently paused by its owner. Re-enable once it's back up:
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvakadipu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvakadipu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhruvakadipu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dhruvakadipu&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&rank_icon=github">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvakadipu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvakadipu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvakadipu&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvakadipu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</picture>
 -->
 
-<img src="https://streak-stats.demolab.com?user=dhruvakadipu&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dhruvakadipu&theme=github-dark-blue&hide_border=true&background=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dhruvakadipu&theme=default&hide_border=true&background=ffffff">
+  <img src="https://streak-stats.demolab.com?user=dhruvakadipu&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak"/>
+</picture>
 
 <!-- Trophies disabled — github-profile-trophy deployment is currently paused by its owner. Re-enable once it's back up:
 <br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=dhruvakadipu&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dhruvakadipu&theme=darkhub&no-frame=true&margin-w=8&row=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=dhruvakadipu&theme=flat&no-frame=true&margin-w=8&row=1">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvakadipu&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub trophies"/>
+</picture>
 -->
 
 </div>
@@ -153,4 +177,8 @@ class DhruvPrajapati:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" alt="footer banner" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DBE4EC,100:F6F8FA&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" alt="footer banner" width="100%"/>
+</picture>
