@@ -45,23 +45,76 @@ class DhruvPrajapati:
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" alt="languages"/>
+### Languages
 
-**Backend & AI/ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,opencv" alt="backend and ml"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="LLMs"/>
-<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge" alt="Gemma"/>
+<a href="https://www.python.org/" target="_blank" title="Python">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48"/>
+</a>
+<a href="https://isocpp.org/" target="_blank" title="C++">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48"/>
+</a>
 
-**Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode" alt="cloud and devops"/>
+
+### Backend & AI/ML
+
+<a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" title="PyTorch">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48"/>
+</a>
+<a href="https://opencv.org/" target="_blank" title="OpenCV">
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48"/>
+</a>
+
+<br/>
+
+<a href="https://python.langchain.com/" target="_blank" title="RAG (Retrieval-Augmented Generation)">
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" alt="RAG"/>
+</a>
+
+<a href="https://ai.google.dev/" target="_blank" title="Large Language Models (LLMs)">
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="LLMs"/>
+</a>
+
+<a href="https://faiss.ai/" target="_blank" title="FAISS">
+  <img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" alt="FAISS"/>
+</a>
+
+<a href="https://ollama.com/" target="_blank" title="Ollama">
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" alt="Ollama"/>
+</a>
+
+<a href="https://ai.google.dev/gemma" target="_blank" title="Gemma">
+  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge" alt="Gemma"/>
+</a>
+
+<br/>
+
+### Cloud & DevOps
+
+<a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" title="Docker">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" title="Git">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/>
+</a>
+<a href="https://kernel.org/" target="_blank" title="Linux">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48"/>
+</a>
 
 </div>
 
